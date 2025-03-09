@@ -156,7 +156,7 @@ li {
 .product-detail {
   padding-inline: 20px;
 }
-.feature > h2 {
+.section-title {
   text-align: center;
   font-family: Playfair Display;
   font-weight: 700;
@@ -196,4 +196,10 @@ li {
   border-width: 1px;
   cursor: pointer;
   margin-block: 40px;
+}
+.about-us {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
